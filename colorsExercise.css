@@ -1,0 +1,45 @@
+h1{
+    color: violet;
+    background-color: rgba(255, 0, 0, 1);
+}
+
+h2{
+    color: #4B0082;
+    background-color: rgb(255, 165, 0);
+}
+
+h3{
+    color: #00F;
+    background-color: #FF0F;
+}
+h4{
+    color: #00FF00FF;
+    background-color: #00FF0044;
+}
+
+h5{
+    color: #FF0F;
+    background-color: #00F;
+}
+
+h6{
+    color: rgb(255, 165, 0);
+    background-color: #4B0082
+}
+
+p{
+    color: rgba(255, 0, 0, 1);
+    background-color: violet;
+}
+
+.listItemOne{
+    color: hotpink;
+}
+.listItemThree{
+    background-color: peachpuff;
+}
+.forBorder{
+    border: green;
+    border-width: 5px;
+    border-style: solid;
+}
